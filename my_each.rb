@@ -10,6 +10,6 @@ def my_each(array)
   array
 
   else
-    puts "This block should not run!"
+    "This block should not run!"
   end
 end
