@@ -1,10 +1,10 @@
-def my_each(word)
+def my_each(array)
   if array.length > 0
   i = 0
   
   while i < array.length
-  yield do |word|
-    puts word
+  yield do |i|
+    puts i
     i += 1
   end
 
