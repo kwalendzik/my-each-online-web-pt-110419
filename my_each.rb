@@ -7,8 +7,9 @@ def my_each(word)
     i += 1
   end
 
-array
-else
-  puts 
-end
+  array
+
+  else
+    puts 
+  end
 end
