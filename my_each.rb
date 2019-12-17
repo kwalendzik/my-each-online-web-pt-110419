@@ -10,6 +10,6 @@ def my_each(word)
   array
 
   else
-    puts 
+    puts "This block should not run!"
   end
 end
