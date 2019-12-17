@@ -5,6 +5,7 @@ def my_each(word)
   while i < array.length
   yield do |word|
     puts word
+  end 
     i += 1
   end
 
